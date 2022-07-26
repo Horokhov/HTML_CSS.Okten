@@ -1,0 +1,187 @@
+.html {
+    background-color: black;
+}
+.main {
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+    margin-top: 200px;
+}
+.card {
+    justify-content: flex-start;
+    justify-items: flex-start;
+    background-color: aqua;
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: darkred;
+}
+
+.button-box {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.description > p {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.title > h1 {
+    padding-top: 20px;
+}
+
+.button-box > a {
+    display: block;
+    width: 150px;
+    height: 50px;
+    background: black;
+    text-align: center;
+    line-height: 50px;
+    vertical-align: center;
+    color: #fff;
+    text-decoration: none;
+    border-style: solid;
+    border-color: white;
+}
+
+.card_2 {
+    justify-content: flex-start;
+    justify-items: flex-start;
+    background-color: aqua;
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: darkred;
+    margin-left: 10px;
+}
+
+.button-box_2 {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.description_2 > p {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.title_2 > h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.button-box_2 > a {
+    display: block;
+    width: 150px;
+    height: 50px;
+    background: black;
+    text-align: center;
+    line-height: 50px;
+    vertical-align: center;
+    color: #fff;
+    text-decoration: none;
+    border-style: solid;
+    border-color: white;
+}
+
+.card_3 {
+    justify-content: flex-start;
+    justify-items: flex-start;
+    background-color: aqua;
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: darkred;
+    margin-left: 10px;
+}
+
+.button-box_3 {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.description_3 > p {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.title_3 > h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.button-box_3 > a {
+    display: block;
+    width: 150px;
+    height: 50px;
+    background: black;
+    text-align: center;
+    line-height: 50px;
+    vertical-align: center;
+    color: #fff;
+    text-decoration: none;
+    border-style: solid;
+    border-color: white;
+}
+
+.icons {
+    width: 11%;
+    height: 20px;
+    position: absolute;
+    display: flex;
+    justify-content: space-evenly;
+    top: 130px;
+    font-size: 50px;
+}
+
+.icon1 {
+    border-style: solid;
+    border-color: darkred;
+    border-radius: 50%;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+}
+
+.icon2 {
+    border-style: solid;
+    border-color: darkred;
+    border-radius: 50%;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+}
+
+.icon3{
+    border-style: solid;
+    border-color: darkred;
+    border-radius: 50%;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+}
